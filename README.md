@@ -47,6 +47,7 @@ api_key=<발급받은 TMDB API KEY>
 - 각종 화면 추가
 - 테스트 코드 추가
 - Compose 변환
+- UiState 사용
 - 등등 개선이 필요하다고 생각되는 작업
 
 <br><br>
